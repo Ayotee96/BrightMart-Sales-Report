@@ -1,4 +1,4 @@
-# BrightMart-Stores_-Sales_Analysis
+# BrightMart-Stores Sales_Analysis
 ## Project Objectives
  - Analyze Sales Performance: Identify key performance indicators (KPIs) such as total revenue, total profit, customer count, and average order value.
  - Identify Trends: Examine monthly and quarterly revenue trends to understand seasonal and regional variations.
